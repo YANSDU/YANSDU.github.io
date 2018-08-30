@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: wysdu@outlook.com
 description: "Keep open-minded, keep confident."
 keyword: "BY, BY Blog, Adam's Blog, wangyan, 王焱, iOS, Apple, iPhone"
-url: "http://wangyan.github.io"          # your host, for absolute URL
+url: "http://yansdu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/YANSDU/wangyan.github.io.git" # you code repository
+github_repo: "https://github.com/YANSDU/yansdu.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
