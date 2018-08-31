@@ -18,7 +18,7 @@ sidebar-avatar: /img/IMG_5209.jpg      # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: false
-#weibo_username:  
+weibo_username:     3692038334
 zhihu_username:     wang-yan-74-50
 github_username:    YANSDU
 #facebook_username:  
